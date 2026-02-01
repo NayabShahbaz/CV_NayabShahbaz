@@ -26,7 +26,7 @@ This project is a personal CV website developed as part of a web programming ass
 
 ## Live Website
 
-🔗 **Website URL:** [https://YOUR-VERCEL-LINK.vercel.app](https://YOUR-VERCEL-LINK.vercel.app)
+🔗 **Website URL:** https://cvnayab-shahbaz.vercel.app/
 
 ---
 
