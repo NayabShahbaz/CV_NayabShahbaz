@@ -517,7 +517,7 @@ textarea:focus {
   transform: translateY(10);
 }
 
-/* mobile responsive */
+/* responsive */
 @media (max-width: 900px) {
   .header-content {
     flex-direction: column-reverse;
@@ -533,6 +533,15 @@ textarea:focus {
   .about-highlights,
   .contact-wrap {
     flex-direction: column;
+  }
+}
+
+/* tighter spacing on phones */
+@media (max-width: 600px) {
+  .container,
+  .container-main {
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }
 
